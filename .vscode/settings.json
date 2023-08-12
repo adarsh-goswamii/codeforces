@@ -1,0 +1,5 @@
+{
+  "postfix.languages": ["python"],
+  "postfix.customTemplates": [],
+  "python.analysis.typeCheckingMode": "basic"
+}
